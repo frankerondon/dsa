@@ -49,6 +49,9 @@ session_start();
 				<h1 align="center">INSTRUCCIONES</h1>
 				<br/><br/>
 				
+				
+				<h3 align="center">Escriba y redacte su consulta a realizar en un archivo de texto</h3>
+				<br/><br/><br/>
 				<h3 align="center">Presionar el boton "Subir .txt" para cargar archivos de texto</h3>
 				<br/><br/><br/>
 				<h3 align="center">Habilitar las pestañas o ventanas emergente en los navegadores</h3>
